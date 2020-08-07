@@ -1,6 +1,14 @@
 # Machine learning
 
-## ML
+Learning process
+
+- Forward pass:
+- Backpropagation:
+- Optimization:
+
+---
+
+## ML types
 
 - Supervised learning: the data require for labels, to classify the outputs.
 - Unsupervised learning: the input allows to make groups and get information of the data.
@@ -19,3 +27,9 @@
 - Model: define a relationship between features and labels.
 - Training: give a dataset at the model and allow that the model learn with the data with label.
 - Inference: use the model for predictions.
+
+---
+
+## PyTorch
+
+Framework that use tensors
