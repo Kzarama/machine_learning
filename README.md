@@ -27,9 +27,18 @@ Learning process
 - Model: define a relationship between features and labels.
 - Training: give a dataset at the model and allow that the model learn with the data with label.
 - Inference: use the model for predictions.
+- Learning rate: is a parameter of adjustment that determine the size of the steps in each iteration while moving toward a minimum of a loss function
 
 ---
 
 ## PyTorch
 
 Framework that use tensors
+
+---
+
+## Training and loss
+
+### Training
+
+Stochastic gradient descent (SGD): reach at the minimum loss with the use of the learning rate
